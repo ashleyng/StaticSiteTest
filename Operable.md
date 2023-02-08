@@ -2,10 +2,10 @@
 User interface components and navigation must be operable.
 ## Guidline 2.1 Keyboard Accessible
 Make all functionality available from a keyboard.
-* [2.1.1 Keyboard (Level A)
-* [2.1.2 No Keyboard Trap (Level A)
-* [2.1.3 Keyboard, No Exception (Level AAA)
-* [2.1.4 Character Key Shortcuts (Level A)
+* 2.1.1 Keyboard (Level A)
+* 2.1.2 No Keyboard Trap (Level A)
+* 2.1.3 Keyboard, No Exception (Level AAA)
+* 2.1.4 Character Key Shortcuts (Level A)
 ## Guidline 2.2 Enough Time
 Provide users enough time to read and use content.
 
