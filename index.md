@@ -1,5 +1,5 @@
 # Web Content Accessibility Guidelines 2.1
-Documentation on Garmin's implementation and suggested techniques for mobile app accessibility. 
+Documentation on implementation and suggested techniques for mobile app accessibility. 
 ## [Perceivable](Perceivable.md)
 Information and user interface components must be presentable to users in ways they can perceive.
 ### Guideline 1.1 Text Alternatives
